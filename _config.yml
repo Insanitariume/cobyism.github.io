@@ -7,8 +7,8 @@ author:
   email: coby@cobyism.com
 
 permalink: /blog/:title/
-baseurl: /
-url: http://cobyism.com
+baseurl: /cobyism.github.io
+url: Insanitariume.github.io/cobyism.github.io/
 highlighter: pygments
 
 markdown: redcarpet
